@@ -160,7 +160,7 @@
           "identifier" : "215ce407-75e2-3593-afe6-0c59af22fc73",
           "instanceIdentifier" : "2b79d912-018e-1000-6b16-f40ae7fdf76d",
           "maxBackoffPeriod" : "10 mins",
-          "name" : "LogAttribute",
+          "name" : "LogAttribute1",
           "penaltyDuration" : "30 sec",
           "position" : {
             "x" : 768.0,
